@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\rachel\documents\visual studio 2010\projects\programs_o_rama\programs_o_rama\main.cpp(14): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\rachel\documents\visual studio 2010\projects\programs_o_rama\programs_o_rama\main.cpp(120): warning C4018: '<' : signed/unsigned mismatch
+c:\users\rachel\documents\visual studio 2010\projects\programs_o_rama\programs_o_rama\main.cpp(207): warning C4018: '<' : signed/unsigned mismatch
+  LINK : C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Programs_o_rama\Debug\Programs_o_rama.exe not found or not built by the last incremental link; performing full link
+  Programs_o_rama.vcxproj -> C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Programs_o_rama\Debug\Programs_o_rama.exe
