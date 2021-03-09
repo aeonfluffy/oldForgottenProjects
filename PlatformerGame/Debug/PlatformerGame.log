@@ -1,0 +1,6 @@
+﻿  SplashScreen.cpp
+  ScreenManager.cpp
+c:\users\rachel\documents\visual studio 2013\projects\platformergame\platformergame\screenmanager.cpp(20): error C2243: 'type cast' : conversion from 'SplashScreen *' to 'GameScreen *' exists, but is inaccessible
+  main.cpp
+  GameScreen.cpp
+  Generating Code...
